@@ -197,6 +197,28 @@ FROM customer
 GROUP BY age_group;
 ```
 
+## Insights & Findings
+
+Based on the SQL analysis and dashboard visuals, the following insights emerged:
+
+- **Gender-based Revenue:** Male customers generated significantly more revenue ($157,890) than female customers ($75,191), indicating either higher purchase frequency or larger transaction sizes.
+
+- **Top-Rated Products:** Gloves, Sandals, and Boots received the highest average review ratings, suggesting strong customer satisfaction in the footwear and accessories categories.
+
+- **Shipping Preferences:** Customers who chose Express shipping spent slightly more on average ($60.48) than those who selected Standard shipping ($58.46), possibly reflecting higher-value purchases or urgency.
+
+- **Subscription Impact:** Subscribed customers contributed $62,645 in revenue across 1,053 individuals, while non-subscribers generated $170,436 from 2,847 customers. Although subscribers spent slightly less on average, their retention and engagement remain valuable.
+
+- **Discount Usage:** Products like Hats, Sneakers, and Coats had the highest percentage of purchases with discounts applied—over 47%—highlighting their appeal during promotions.
+
+- **Customer Segmentation:** The majority of customers were classified as Loyal (3,116), followed by Returning (701) and New (83), indicating a strong base of repeat buyers.
+
+- **Category Leaders:** Jewelry, Blouse, and Sandals were the most purchased items in Accessories, Clothing, and Footwear respectively. These products may benefit from targeted marketing and inventory prioritization.
+
+- **Repeat Buyers & Subscription:** Among customers with more than 5 previous purchases, 958 were subscribers and 2,518 were not—suggesting room to convert loyal buyers into subscribers.
+
+- **Age Group Revenue:** Young Adults and Middle-Aged customers contributed the highest revenue ($62,143 and $59,197 respectively), making them key demographics for future campaigns.
+
 ## How to Run the Project
 
 1. **Clone the Repository**:
