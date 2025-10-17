@@ -2,7 +2,8 @@
 
 ## Overview
 
-Analyzing customer shopping behavior to uncover purchasing patterns and business insights, I use Python for data cleaning and feature engineering, SQL to extract transactional trends, and Power BI to build interactive dashboards. This approach reveals how factors such as gender, age, subscription status, discounts, and product categories shape customer purchasing behavior.
+Analyzing customer shopping behavior to uncover purchasing patterns and business insights, I use Python for data cleaning and feature engineering, SQL to answer key business queries, and Power BI to build interactive dashboards. This approach reveals how factors such as gender, age, subscription status, discounts, and product categories shape customer purchasing behavior.
+
 ## Final Dashboard
 
 ![Customer Behavior Dashboard](Images/customer_behavior_dashboard.png)
